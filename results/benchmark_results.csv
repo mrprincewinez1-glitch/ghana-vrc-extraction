@@ -1,0 +1,205 @@
+timestamp,document_type,document,method,field,ground_truth,extracted,match,edit_distance,field_exact_match_pct,cer_pct,full_pass
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Tesseract,vehicle_registration_number,1E7D35D3,,False,8,20.0,83.33,False
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Tesseract,chassis_number,480299A4DE2A,,False,12,20.0,83.33,False
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Tesseract,make,TOYOTA,TOYOTA,True,0,20.0,83.33,False
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Tesseract,model,VITZ,,False,4,20.0,83.33,False
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Tesseract,colour,SILVER,,False,6,20.0,83.33,False
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Gemini,vehicle_registration_number,1E7D35D3,1E7D35D3,True,0,100.0,0.0,True
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Gemini,chassis_number,480299A4DE2A,480299A4DE2A,True,0,100.0,0.0,True
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Gemini,make,TOYOTA,TOYOTA,True,0,100.0,0.0,True
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Gemini,model,VITZ,VITZ,True,0,100.0,0.0,True
+2026-10-01T23:16:32,vrc,data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG,Gemini,colour,SILVER,SILVER,True,0,100.0,0.0,True
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Tesseract,vehicle_registration_number,63E892FC,,False,8,0.0,100.0,False
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Tesseract,chassis_number,68AE4C8BA1FE26CD0,,False,17,0.0,100.0,False
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Tesseract,make,TOYOTA,,False,6,0.0,100.0,False
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Tesseract,model,LAND CRUISER PRADO,,False,18,0.0,100.0,False
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Tesseract,colour,BLACK,,False,5,0.0,100.0,False
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Gemini,vehicle_registration_number,63E892FC,63E892FC,True,0,100.0,0.0,True
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Gemini,chassis_number,68AE4C8BA1FE26CD0,68AE4C8BA1FE26CD0,True,0,100.0,0.0,True
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Gemini,make,TOYOTA,TOYOTA,True,0,100.0,0.0,True
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Gemini,model,LAND CRUISER PRADO,LAND CRUISER PRADO,True,0,100.0,0.0,True
+2026-10-01T23:16:37,vrc,data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG,Gemini,colour,BLACK,BLACK,True,0,100.0,0.0,True
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Tesseract,vehicle_registration_number,EC38564,,False,7,0.0,100.0,False
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Tesseract,chassis_number,216B3777E61421F81,,False,17,0.0,100.0,False
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Tesseract,make,KIA,,False,3,0.0,100.0,False
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Tesseract,model,SPORTAGE,,False,8,0.0,100.0,False
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Tesseract,colour,BLACK,,False,5,0.0,100.0,False
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Gemini,vehicle_registration_number,EC38564,EC38564,True,0,100.0,0.0,True
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Gemini,chassis_number,216B3777E61421F81,216B3777E61421F81,True,0,100.0,0.0,True
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Gemini,make,KIA,KIA,True,0,100.0,0.0,True
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Gemini,model,SPORTAGE,SPORTAGE,True,0,100.0,0.0,True
+2026-10-01T23:16:41,vrc,data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg,Gemini,colour,BLACK,BLACK,True,0,100.0,0.0,True
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Tesseract,vehicle_registration_number,45E36FCF,C4F18,False,6,0.0,94.44,False
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Tesseract,chassis_number,32B71FA09F6FC,,False,13,0.0,94.44,False
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Tesseract,make,TOYOTA,,False,6,0.0,94.44,False
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Tesseract,model,VITZ,,False,4,0.0,94.44,False
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Tesseract,colour,CREAM,,False,5,0.0,94.44,False
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Gemini,vehicle_registration_number,45E36FCF,45E36FCF,True,0,100.0,0.0,True
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Gemini,chassis_number,32B71FA09F6FC,32B71FA09F6FC,True,0,100.0,0.0,True
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Gemini,make,TOYOTA,TOYOTA,True,0,100.0,0.0,True
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Gemini,model,VITZ,VITZ,True,0,100.0,0.0,True
+2026-10-01T23:16:46,vrc,data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG,Gemini,colour,CREAM,CREAM,True,0,100.0,0.0,True
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Tesseract,vehicle_registration_number,28B40D49,,False,8,0.0,100.0,False
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Tesseract,chassis_number,C7B3F0120AA426C102,,False,18,0.0,100.0,False
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Tesseract,make,CHEVROLET,,False,9,0.0,100.0,False
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Tesseract,model,EQUINOX,,False,7,0.0,100.0,False
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Tesseract,colour,WHITE,,False,5,0.0,100.0,False
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Gemini,vehicle_registration_number,28B40D49,28B40D49,True,0,100.0,0.0,True
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Gemini,chassis_number,C7B3F0120AA426C102,C7B3F0120AA426C102,True,0,100.0,0.0,True
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Gemini,make,CHEVROLET,CHEVROLET,True,0,100.0,0.0,True
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Gemini,model,EQUINOX,EQUINOX,True,0,100.0,0.0,True
+2026-10-01T23:16:52,vrc,data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG,Gemini,colour,WHITE,WHITE,True,0,100.0,0.0,True
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Tesseract,vehicle_registration_number,1AF6027,DC8E7,False,5,0.0,92.31,False
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Tesseract,chassis_number,C5B682B48BC0D3E8D,,False,17,0.0,92.31,False
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Tesseract,make,HONDA,VE HON,False,5,0.0,92.31,False
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Tesseract,model,ELEMENT,A ST,False,6,0.0,92.31,False
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Tesseract,colour,ASH,,False,3,0.0,92.31,False
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Gemini,vehicle_registration_number,1AF6027,1AF6027,True,0,100.0,0.0,True
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Gemini,chassis_number,C5B682B48BC0D3E8D,C5B682B48BC0D3E8D,True,0,100.0,0.0,True
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Gemini,make,HONDA,HONDA,True,0,100.0,0.0,True
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Gemini,model,ELEMENT,ELEMENT,True,0,100.0,0.0,True
+2026-10-01T23:16:57,vrc,data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg,Gemini,colour,ASH,ASH,True,0,100.0,0.0,True
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Tesseract,vehicle_registration_number,C85B95F4,,False,8,0.0,97.83,False
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Tesseract,chassis_number,9373CDA4EA6494FB6,0D98E45C4947,False,15,0.0,97.83,False
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Tesseract,make,NISSAN,SINGE 42,False,7,0.0,97.83,False
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Tesseract,model,ALTIMA,,False,6,0.0,97.83,False
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Tesseract,colour,BLUEBLACK,,False,9,0.0,97.83,False
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Gemini,vehicle_registration_number,C85B95F4,C85B95F4,True,0,100.0,0.0,True
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Gemini,chassis_number,9373CDA4EA6494FB6,9373CDA4EA6494FB6,True,0,100.0,0.0,True
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Gemini,make,NISSAN,NISSAN,True,0,100.0,0.0,True
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Gemini,model,ALTIMA,ALTIMA,True,0,100.0,0.0,True
+2026-10-01T23:17:05,vrc,data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg,Gemini,colour,BLUEBLACK,BLUEBLACK,True,0,100.0,0.0,True
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Tesseract,vehicle_registration_number,,,True,0,20.0,85.19,False
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Tesseract,chassis_number,A230E1255459A,MASKED,False,9,20.0,85.19,False
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Tesseract,make,TOYOTA,VEHICIE,False,7,20.0,85.19,False
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Tesseract,model,VITZ,YPE,False,4,20.0,85.19,False
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Tesseract,colour,ASH,,False,3,20.0,85.19,False
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Gemini,vehicle_registration_number,,,True,0,100.0,0.0,True
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Gemini,chassis_number,A230E1255459A,A230E1255459A,True,0,100.0,0.0,True
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Gemini,make,TOYOTA,TOYOTA,True,0,100.0,0.0,True
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Gemini,model,VITZ,VITZ,True,0,100.0,0.0,True
+2026-10-01T23:17:11,vrc,data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG,Gemini,colour,ASH,ASH,True,0,100.0,0.0,True
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Tesseract,vehicle_registration_number,,,True,0,20.0,83.33,False
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Tesseract,chassis_number,7766BE36EC3497D1A,B123394BC751F,False,11,20.0,83.33,False
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Tesseract,make,VOLKSWAGEN,,False,10,20.0,83.33,False
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Tesseract,model,LT 35,,False,5,20.0,83.33,False
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Tesseract,colour,DEEP BLUE,,False,9,20.0,83.33,False
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Gemini,vehicle_registration_number,,,True,0,100.0,0.0,True
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Gemini,chassis_number,7766BE36EC3497D1A,7766BE36EC3497D1A,True,0,100.0,0.0,True
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Gemini,make,VOLKSWAGEN,VOLKSWAGEN,True,0,100.0,0.0,True
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Gemini,model,LT 35,LT 35,True,0,100.0,0.0,True
+2026-10-01T23:17:15,vrc,data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG,Gemini,colour,DEEP BLUE,DEEP BLUE,True,0,100.0,0.0,True
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Tesseract,vehicle_registration_number,8CAAEC2F,F52C9A,False,7,0.0,97.14,False
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Tesseract,chassis_number,C3D5C5CE660C9,,False,13,0.0,97.14,False
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Tesseract,make,TOYOTA,LE,False,6,0.0,97.14,False
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Tesseract,model,VITZ,,False,4,0.0,97.14,False
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Tesseract,colour,GREY,,False,4,0.0,97.14,False
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Gemini,vehicle_registration_number,8CAAEC2F,8CAAEC2F,True,0,100.0,0.0,True
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Gemini,chassis_number,C3D5C5CE660C9,C3D5C5CE660C9,True,0,100.0,0.0,True
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Gemini,make,TOYOTA,TOYOTA,True,0,100.0,0.0,True
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Gemini,model,VITZ,VITZ,True,0,100.0,0.0,True
+2026-10-01T23:17:19,vrc,data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg,Gemini,colour,GREY,GREY,True,0,100.0,0.0,True
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Tesseract,vehicle_registration_number,C5741205,,False,8,0.0,82.0,False
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Tesseract,chassis_number,6D7422F18C90C4AA3,B5E10FEDC69,False,8,0.0,82.0,False
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Tesseract,make,TOYOTA,,False,6,0.0,82.0,False
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Tesseract,model,COROLLA,,False,7,0.0,82.0,False
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Tesseract,colour,WHITE/YELLOW,,False,12,0.0,82.0,False
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Gemini,vehicle_registration_number,C5741205,C5741205,True,0,100.0,0.0,True
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Gemini,chassis_number,6D7422F18C90C4AA3,6D7422F18C90C4AA3,True,0,100.0,0.0,True
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Gemini,make,TOYOTA,TOYOTA,True,0,100.0,0.0,True
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Gemini,model,COROLLA,COROLLA,True,0,100.0,0.0,True
+2026-10-01T23:17:23,vrc,data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG,Gemini,colour,WHITE/YELLOW,WHITE/YELLOW,True,0,100.0,0.0,True
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Tesseract,vehicle_registration_number,,,True,0,20.0,90.62,False
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Tesseract,chassis_number,9A7F076325DC8EF2C,MASKED,False,15,20.0,90.62,False
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Tesseract,make,HONDA,MT,False,5,20.0,90.62,False
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Tesseract,model,CR-V,,False,4,20.0,90.62,False
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Tesseract,colour,BROWN,,False,5,20.0,90.62,False
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Gemini,vehicle_registration_number,,04A43A8,False,7,80.0,21.88,False
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Gemini,chassis_number,9A7F076325DC8EF2C,9A7F076325DC8EF2C,True,0,80.0,21.88,False
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Gemini,make,HONDA,HONDA,True,0,80.0,21.88,False
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Gemini,model,CR-V,CR-V,True,0,80.0,21.88,False
+2026-10-01T23:17:28,vrc,data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg,Gemini,colour,BROWN,BROWN,True,0,80.0,21.88,False
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Tesseract,vehicle_registration_number,,,True,0,40.0,83.33,False
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Tesseract,chassis_number,6486A37AEEDD077A9,0D98E45C4947,False,16,40.0,83.33,False
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Tesseract,make,KIA,KIA,True,0,40.0,83.33,False
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Tesseract,model,SOUL,,False,4,40.0,83.33,False
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Tesseract,colour,WHITE,,False,5,40.0,83.33,False
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Gemini,vehicle_registration_number,,,True,0,100.0,0.0,True
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Gemini,chassis_number,6486A37AEEDD077A9,6486A37AEEDD077A9,True,0,100.0,0.0,True
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Gemini,make,KIA,KIA,True,0,100.0,0.0,True
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Gemini,model,SOUL,SOUL,True,0,100.0,0.0,True
+2026-10-01T23:17:33,vrc,data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG,Gemini,colour,WHITE,WHITE,True,0,100.0,0.0,True
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Tesseract,vehicle_registration_number,,,True,0,20.0,97.3,False
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Tesseract,chassis_number,1F0280765490C01E0,07CF8A3EA94B,False,17,20.0,97.3,False
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Tesseract,make,HAOJUE,,False,6,20.0,97.3,False
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Tesseract,model,HJ125NEW,,False,8,20.0,97.3,False
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Tesseract,colour,BLACK,,False,5,20.0,97.3,False
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Gemini,vehicle_registration_number,,,True,0,100.0,0.0,True
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Gemini,chassis_number,1F0280765490C01E0,1F0280765490C01E0,True,0,100.0,0.0,True
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Gemini,make,HAOJUE,HAOJUE,True,0,100.0,0.0,True
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Gemini,model,HJ125NEW,HJ125NEW,True,0,100.0,0.0,True
+2026-10-01T23:17:38,vrc,data/sample_documents/IMG_6474.jpg,Gemini,colour,BLACK,BLACK,True,0,100.0,0.0,True
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Tesseract,vehicle_registration_number,19204E79,,False,8,0.0,95.74,False
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Tesseract,chassis_number,C5E670BBDE4CC3D31,038BFAA26A06,False,15,0.0,95.74,False
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Tesseract,make,HYUNDAI,,False,7,0.0,95.74,False
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Tesseract,model,GETZ,,False,4,0.0,95.74,False
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Tesseract,colour,BLUE/YELLOW,,False,11,0.0,95.74,False
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Gemini,vehicle_registration_number,19204E79,19204E79,True,0,100.0,0.0,True
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Gemini,chassis_number,C5E670BBDE4CC3D31,C5E670BBDE4CC3D31,True,0,100.0,0.0,True
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Gemini,make,HYUNDAI,HYUNDAI,True,0,100.0,0.0,True
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Gemini,model,GETZ,GETZ,True,0,100.0,0.0,True
+2026-10-01T23:17:43,vrc,data/sample_documents/IMG_6511.jpg,Gemini,colour,BLUE/YELLOW,BLUE/YELLOW,True,0,100.0,0.0,True
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Tesseract,vehicle_registration_number,,,True,0,20.0,88.1,False
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Tesseract,chassis_number,D88481BF91CCBC2AD,MASKED,False,13,20.0,88.1,False
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Tesseract,make,TOYOTA,,False,6,20.0,88.1,False
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Tesseract,model,YARIS,,False,5,20.0,88.1,False
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Tesseract,colour,SILVER/YELLOW,,False,13,20.0,88.1,False
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Gemini,vehicle_registration_number,,,True,0,80.0,2.38,False
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Gemini,chassis_number,D88481BF91CCBC2AD,BF99888E058F42FE02,False,1,80.0,2.38,False
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Gemini,make,TOYOTA,TOYOTA,True,0,80.0,2.38,False
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Gemini,model,YARIS,YARIS,True,0,80.0,2.38,False
+2026-10-01T23:17:47,vrc,data/sample_documents/IMG_6568.jpg,Gemini,colour,SILVER/YELLOW,SILVER/YELLOW,True,0,80.0,2.38,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Tesseract,vehicle_registration_number,EBE047AC,,False,8,0.0,100.0,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Tesseract,chassis_number,C918579C4053D2DFF,,False,17,0.0,100.0,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Tesseract,make,MAZDA,,False,5,0.0,100.0,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Tesseract,model,DEMIO,,False,5,0.0,100.0,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Tesseract,colour,ASH/YELLOW,,False,10,0.0,100.0,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Gemini,vehicle_registration_number,EBE047AC,EBE047AC,True,0,80.0,2.22,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Gemini,chassis_number,C918579C4053D2DFF,66B92899F8101C00E,False,1,80.0,2.22,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Gemini,make,MAZDA,MAZDA,True,0,80.0,2.22,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Gemini,model,DEMIO,DEMIO,True,0,80.0,2.22,False
+2026-10-01T23:17:53,vrc,data/sample_documents/IMG_6773.jpg,Gemini,colour,ASH/YELLOW,ASH/YELLOW,True,0,80.0,2.22,False
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Tesseract,vehicle_registration_number,DE5F3A31,,False,8,0.0,100.0,False
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Tesseract,chassis_number,9A4E0FD737311873A,,False,17,0.0,100.0,False
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Tesseract,make,TOYOTA,,False,6,0.0,100.0,False
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Tesseract,model,YARIS,,False,5,0.0,100.0,False
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Tesseract,colour,BLUE,,False,4,0.0,100.0,False
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Gemini,vehicle_registration_number,DE5F3A31,DE5F3A31,True,0,100.0,0.0,True
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Gemini,chassis_number,9A4E0FD737311873A,9A4E0FD737311873A,True,0,100.0,0.0,True
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Gemini,make,TOYOTA,TOYOTA,True,0,100.0,0.0,True
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Gemini,model,YARIS,YARIS,True,0,100.0,0.0,True
+2026-10-01T23:17:57,vrc,data/sample_documents/IMG_6915 2.jpg,Gemini,colour,BLUE,BLUE,True,0,100.0,0.0,True
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Tesseract,vehicle_registration_number,25A87AAF,,False,8,0.0,100.0,False
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Tesseract,chassis_number,137977CD910963CA9,,False,17,0.0,100.0,False
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Tesseract,make,TOYOTA,,False,6,0.0,100.0,False
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Tesseract,model,YARIS,,False,5,0.0,100.0,False
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Tesseract,colour,BLUE/YELLOW,,False,11,0.0,100.0,False
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Gemini,vehicle_registration_number,25A87AAF,25A87AAF,True,0,100.0,0.0,True
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Gemini,chassis_number,137977CD910963CA9,137977CD910963CA9,True,0,100.0,0.0,True
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Gemini,make,TOYOTA,TOYOTA,True,0,100.0,0.0,True
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Gemini,model,YARIS,YARIS,True,0,100.0,0.0,True
+2026-10-01T23:18:03,vrc,data/sample_documents/IMG_6916 2.jpg,Gemini,colour,BLUE/YELLOW,BLUE/YELLOW,True,0,100.0,0.0,True
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Tesseract,vehicle_registration_number,DABA83E9,,False,8,0.0,100.0,False
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Tesseract,chassis_number,77534C9F4FE6A8456,,False,17,0.0,100.0,False
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Tesseract,make,HONDA,,False,5,0.0,100.0,False
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Tesseract,model,CR-V,,False,4,0.0,100.0,False
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Tesseract,colour,RED,,False,3,0.0,100.0,False
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Gemini,vehicle_registration_number,DABA83E9,DABA83E9,True,0,100.0,0.0,True
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Gemini,chassis_number,77534C9F4FE6A8456,77534C9F4FE6A8456,True,0,100.0,0.0,True
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Gemini,make,HONDA,HONDA,True,0,100.0,0.0,True
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Gemini,model,CR-V,CR-V,True,0,100.0,0.0,True
+2026-10-01T23:18:09,vrc,data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg,Gemini,colour,RED,RED,True,0,100.0,0.0,True
+2026-10-01T23:18:13,ghana_card,data/sample_documents/ghana_card_sample.jpg,Tesseract,client_name,MASKED,MASKED,True,0,100.0,0.0,True
+2026-10-01T23:18:13,ghana_card,data/sample_documents/ghana_card_sample.jpg,Tesseract,ghana_card_id,MASKED,MASKED,True,0,100.0,0.0,True
+2026-10-01T23:18:13,ghana_card,data/sample_documents/ghana_card_sample.jpg,Gemini,client_name,MASKED,MASKED,True,0,100.0,0.0,True
+2026-10-01T23:18:13,ghana_card,data/sample_documents/ghana_card_sample.jpg,Gemini,ghana_card_id,MASKED,MASKED,True,0,100.0,0.0,True

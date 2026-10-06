@@ -1,0 +1,11 @@
+{
+  "document_type": "Vehicle Registration Certificate",
+  "vehicle_registration_number": null,
+  "chassis_number": "7766BE36EC3497D1A",
+  "make": "VOLKSWAGEN",
+  "model": "LT 35",
+  "colour": "DEEP BLUE",
+  "seating_capacity": "23",
+  "vehicle_type": "BUS",
+  "private_or_commercial": "COMMERCIAL"
+}

@@ -1,0 +1,26 @@
+
+# Private ground truth & PII outputs
+private/
+ground_truth_vrc.json
+outputs/
+benchmark_results_final.csv
+
+# Private ground truth & PII outputs
+private/
+ground_truth_vrc.json
+outputs/
+benchmark_results_final.csv
+
+.env
+data/
+backup_run8/
+ground_truth_ghana_card.json
+vrc_calibrated.jpg
+vrc_regions_visualized.jpg
+vrc_with_coordinates.jpg
+calibration_overlay.png
+
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc

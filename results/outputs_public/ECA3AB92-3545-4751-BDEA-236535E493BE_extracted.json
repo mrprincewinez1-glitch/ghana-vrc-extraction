@@ -1,0 +1,11 @@
+{
+  "document_type": "Vehicle Registration Card",
+  "vehicle_registration_number": "C5741205",
+  "chassis_number": "6D7422F18C90C4AA3",
+  "make": "Toyota",
+  "model": "Corolla",
+  "colour": "WHITE/YELLOW",
+  "seating_capacity": "5",
+  "vehicle_type": "SALOON",
+  "private_or_commercial": "COMMERCIAL"
+}

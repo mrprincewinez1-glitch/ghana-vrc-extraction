@@ -1,0 +1,89 @@
+=====================================================================
+      LOW-RESOURCE NLP DOCUMENT EXTRACTION BENCHMARK RUNNER
+      VRC documents: 20  |  Ghana Card: 1 (fixed)
+=====================================================================
+
+Evaluating VRC asset: data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG
+  [Method B] using saved extraction: 4e2338f2-4de4-44ef-9467-d4266a6428d9_extracted.json
+
+Evaluating VRC asset: data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG
+  [Method B] using saved extraction: 43f3c07a-62d9-4abd-aa23-36458f7835c2_extracted.json
+
+Evaluating VRC asset: data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg
+  [Method B] using saved extraction: 045EA5FF-9C1D-41F3-8FA0-B0BF0491A592_extracted.json
+
+Evaluating VRC asset: data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG
+  [Method B] using saved extraction: 94e7bee5-8d21-48a7-ba58-e4d164d15253_extracted.json
+
+Evaluating VRC asset: data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG
+  [Method B] using saved extraction: 627db231-cd63-4c21-af63-f9a7162e5a6d_extracted.json
+
+Evaluating VRC asset: data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg
+  [Method B] using saved extraction: 88610998-E458-47B3-834C-F79BB9A594CF_extracted.json
+
+Evaluating VRC asset: data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg
+  [Method B] using saved extraction: EBF90CCB-6AD2-495B-8D59-86BA154A050D_extracted.json
+
+Evaluating VRC asset: data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG
+  [Method B] using saved extraction: f4fb3c36-15af-4244-a967-161b8bab98a6_extracted.json
+
+Evaluating VRC asset: data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG
+  [Method B] using saved extraction: f373ca5b-54be-4a16-abd6-dc87e77fd07f_extracted.json
+
+Evaluating VRC asset: data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg
+  [Method B] using saved extraction: F34E0CE5-498D-4108-AB60-F3029F4E5753_extracted.json
+
+Evaluating VRC asset: data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG
+  [Method B] using saved extraction: ECA3AB92-3545-4751-BDEA-236535E493BE_extracted.json
+
+Evaluating VRC asset: data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg
+  [Method B] using saved extraction: 3C07218B-EA27-4C32-891D-DDFC0C806BB0_extracted.json
+
+Evaluating VRC asset: data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG
+  [Method B] using saved extraction: 313c38e0-6f90-4fe2-a955-10fa951cab4b_extracted.json
+
+Evaluating VRC asset: data/sample_documents/IMG_6474.jpg
+  [Method B] using saved extraction: IMG_6474_extracted.json
+
+Evaluating VRC asset: data/sample_documents/IMG_6511.jpg
+  [Method B] using saved extraction: IMG_6511_extracted.json
+
+Evaluating VRC asset: data/sample_documents/IMG_6568.jpg
+  [Method B] using saved extraction: IMG_6568_extracted.json
+
+Evaluating VRC asset: data/sample_documents/IMG_6773.jpg
+  [Method B] using saved extraction: IMG_6773_extracted.json
+
+Evaluating VRC asset: data/sample_documents/IMG_6915 2.jpg
+  [Method B] using saved extraction: IMG_6915 2_extracted.json
+
+Evaluating VRC asset: data/sample_documents/IMG_6916 2.jpg
+  [Method B] using saved extraction: IMG_6916 2_extracted.json
+
+Evaluating VRC asset: data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg
+  [Method B] using saved extraction: PHOTO-2026-07-27-13-30-39_extracted.json
+
+Evaluating Ghana Card asset: data/sample_documents/ghana_card_sample.jpg
+  [Method B] using saved extraction: ghana_card_sample_extracted.json
+
+======================================================================
+  VRC EXTRACTION RESULTS  (N = 20)
+======================================================================
+Metric                              | Tesseract       | Gemini         
+----------------------------------------------------------------------
+Field-Level Exact Match (EM) (%)    | 8.00            | 97.00          
+Character Error Rate (CER) (%)      | 93.53           | 1.32           
+Format-Level Pass Rate (100% EM)    | 0.00           % | 85.00          %
+======================================================================
+
+======================================================================
+  GHANA CARD EXTRACTION RESULT  (N = 1)  — single fixed document — not a statistically meaningful sample, informational only
+======================================================================
+Metric                              | Tesseract       | Gemini         
+----------------------------------------------------------------------
+Field-Level Exact Match (EM) (%)    | 100.00          | 100.00         
+Character Error Rate (CER) (%)      | 0.00            | 0.00           
+Format-Level Pass Rate (100% EM)    | 100.00         % | 100.00         %
+======================================================================
+
+Detailed per-field results appended to: /Users/mrprince/ghana_motor_insurance_vie/results/benchmark_results.csv

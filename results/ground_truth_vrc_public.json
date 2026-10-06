@@ -1,0 +1,222 @@
+[
+  {
+    "vrc_image_path": "data/sample_documents/4e2338f2-4de4-44ef-9467-d4266a6428d9.JPG",
+    "vehicle_registration_number": "1E7D35D3",
+    "chassis_number": "480299A4DE2A",
+    "make": "TOYOTA",
+    "model": "VITZ",
+    "colour": "SILVER",
+    "seating_capacity": "5",
+    "vehicle_type": "L/BACK",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/43f3c07a-62d9-4abd-aa23-36458f7835c2.JPG",
+    "vehicle_registration_number": "63E892FC",
+    "chassis_number": "68AE4C8BA1FE26CD0",
+    "make": "TOYOTA",
+    "model": "LAND CRUISER PRADO",
+    "colour": "BLACK",
+    "seating_capacity": "7",
+    "vehicle_type": "STATION WAGON",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/045EA5FF-9C1D-41F3-8FA0-B0BF0491A592.jpg",
+    "vehicle_registration_number": "EC38564",
+    "chassis_number": "216B3777E61421F81",
+    "make": "KIA",
+    "model": "SPORTAGE",
+    "colour": "BLACK",
+    "seating_capacity": "5",
+    "vehicle_type": "ST/WAGON",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/94e7bee5-8d21-48a7-ba58-e4d164d15253.JPG",
+    "vehicle_registration_number": "45E36FCF",
+    "chassis_number": "32B71FA09F6FC",
+    "make": "TOYOTA",
+    "model": "VITZ",
+    "colour": "CREAM",
+    "seating_capacity": "5",
+    "vehicle_type": "LIFT-BACK",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/627db231-cd63-4c21-af63-f9a7162e5a6d.JPG",
+    "vehicle_registration_number": "28B40D49",
+    "chassis_number": "C7B3F0120AA426C102",
+    "make": "CHEVROLET",
+    "model": "EQUINOX",
+    "colour": "WHITE",
+    "seating_capacity": "5",
+    "vehicle_type": "S/W",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/88610998-E458-47B3-834C-F79BB9A594CF.jpg",
+    "vehicle_registration_number": "1AF6027",
+    "chassis_number": "C5B682B48BC0D3E8D",
+    "make": "HONDA",
+    "model": "ELEMENT",
+    "colour": "ASH",
+    "seating_capacity": "5",
+    "vehicle_type": "SUV",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/EBF90CCB-6AD2-495B-8D59-86BA154A050D.jpg",
+    "vehicle_registration_number": "C85B95F4",
+    "chassis_number": "9373CDA4EA6494FB6",
+    "make": "NISSAN",
+    "model": "ALTIMA",
+    "colour": "BLUEBLACK",
+    "seating_capacity": "5",
+    "vehicle_type": "S/C",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/f4fb3c36-15af-4244-a967-161b8bab98a6.JPG",
+    "vehicle_registration_number": null,
+    "chassis_number": "A230E1255459A",
+    "make": "TOYOTA",
+    "model": "VITZ",
+    "colour": "ASH",
+    "seating_capacity": "5",
+    "vehicle_type": "L/BACK",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/f373ca5b-54be-4a16-abd6-dc87e77fd07f.JPG",
+    "vehicle_registration_number": null,
+    "chassis_number": "7766BE36EC3497D1A",
+    "make": "VOLKSWAGEN",
+    "model": "LT 35",
+    "colour": "DEEP BLUE",
+    "seating_capacity": "23",
+    "vehicle_type": "BUS",
+    "private_or_commercial": "COMMERCIAL"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/F34E0CE5-498D-4108-AB60-F3029F4E5753.jpg",
+    "vehicle_registration_number": "8CAAEC2F",
+    "chassis_number": "C3D5C5CE660C9",
+    "make": "TOYOTA",
+    "model": "VITZ",
+    "colour": "GREY",
+    "seating_capacity": "5",
+    "vehicle_type": "HATCH-BACK",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/ECA3AB92-3545-4751-BDEA-236535E493BE.JPG",
+    "vehicle_registration_number": "C5741205",
+    "chassis_number": "6D7422F18C90C4AA3",
+    "make": "TOYOTA",
+    "model": "COROLLA",
+    "colour": "WHITE/YELLOW",
+    "seating_capacity": "5",
+    "vehicle_type": "SALOON",
+    "private_or_commercial": "COMMERCIAL"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/3C07218B-EA27-4C32-891D-DDFC0C806BB0.jpg",
+    "vehicle_registration_number": null,
+    "chassis_number": "9A7F076325DC8EF2C",
+    "make": "HONDA",
+    "model": "CR-V",
+    "colour": "BROWN",
+    "seating_capacity": "5",
+    "vehicle_type": "ST WAGON",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/313c38e0-6f90-4fe2-a955-10fa951cab4b.JPG",
+    "vehicle_registration_number": null,
+    "chassis_number": "6486A37AEEDD077A9",
+    "make": "KIA",
+    "model": "SOUL",
+    "colour": "WHITE",
+    "seating_capacity": "5",
+    "vehicle_type": "LIFTBACK",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/IMG_6474.jpg",
+    "vehicle_registration_number": null,
+    "chassis_number": "1F0280765490C01E0",
+    "make": "HAOJUE",
+    "model": "HJ125NEW",
+    "colour": "BLACK",
+    "seating_capacity": "2",
+    "vehicle_type": "MOTORCYCLE",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/IMG_6511.jpg",
+    "vehicle_registration_number": "19204E79",
+    "chassis_number": "C5E670BBDE4CC3D31",
+    "make": "HYUNDAI",
+    "model": "GETZ",
+    "colour": "BLUE/YELLOW",
+    "seating_capacity": "5",
+    "vehicle_type": "H/Back",
+    "private_or_commercial": "Commercial"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/IMG_6568.jpg",
+    "vehicle_registration_number": null,
+    "chassis_number": "D88481BF91CCBC2AD",
+    "make": "TOYOTA",
+    "model": "YARIS",
+    "colour": "SILVER/YELLOW",
+    "seating_capacity": "5",
+    "vehicle_type": "L/BACK",
+    "private_or_commercial": "COMMERCIAL"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/IMG_6773.jpg",
+    "vehicle_registration_number": "EBE047AC",
+    "chassis_number": "C918579C4053D2DFF",
+    "make": "MAZDA",
+    "model": "DEMIO",
+    "colour": "ASH/YELLOW",
+    "seating_capacity": "5",
+    "vehicle_type": "L/BACK",
+    "private_or_commercial": "COMMERCIAL"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/IMG_6915 2.jpg",
+    "vehicle_registration_number": "DE5F3A31",
+    "chassis_number": "9A4E0FD737311873A",
+    "make": "TOYOTA",
+    "model": "YARIS",
+    "colour": "BLUE",
+    "seating_capacity": "5",
+    "vehicle_type": "LIFT-BACK",
+    "private_or_commercial": "PRIVATE"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/IMG_6916 2.jpg",
+    "vehicle_registration_number": "25A87AAF",
+    "chassis_number": "137977CD910963CA9",
+    "make": "TOYOTA",
+    "model": "YARIS",
+    "colour": "BLUE/YELLOW",
+    "seating_capacity": "5",
+    "vehicle_type": "LIFT-BACK",
+    "private_or_commercial": "COMMERCIAL"
+  },
+  {
+    "vrc_image_path": "data/sample_documents/PHOTO-2026-07-27-13-30-39.jpg",
+    "vehicle_registration_number": "DABA83E9",
+    "chassis_number": "77534C9F4FE6A8456",
+    "make": "HONDA",
+    "model": "CR-V",
+    "colour": "RED",
+    "seating_capacity": "5",
+    "vehicle_type": "ST/WAGON",
+    "private_or_commercial": "PRIVATE"
+  }
+]
