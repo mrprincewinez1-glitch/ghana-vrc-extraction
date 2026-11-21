@@ -6,7 +6,7 @@
     "make": "TOYOTA",
     "model": "VITZ",
     "colour": "SILVER",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "L/BACK",
     "private_or_commercial": "PRIVATE"
   },
@@ -17,7 +17,7 @@
     "make": "TOYOTA",
     "model": "LAND CRUISER PRADO",
     "colour": "BLACK",
-    "seating_capacity": "7",
+    "no_of_persons": "7",
     "vehicle_type": "STATION WAGON",
     "private_or_commercial": "PRIVATE"
   },
@@ -28,7 +28,7 @@
     "make": "KIA",
     "model": "SPORTAGE",
     "colour": "BLACK",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "ST/WAGON",
     "private_or_commercial": "PRIVATE"
   },
@@ -39,7 +39,7 @@
     "make": "TOYOTA",
     "model": "VITZ",
     "colour": "CREAM",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "LIFT-BACK",
     "private_or_commercial": "PRIVATE"
   },
@@ -50,7 +50,7 @@
     "make": "CHEVROLET",
     "model": "EQUINOX",
     "colour": "WHITE",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "S/W",
     "private_or_commercial": "PRIVATE"
   },
@@ -61,7 +61,7 @@
     "make": "HONDA",
     "model": "ELEMENT",
     "colour": "ASH",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "SUV",
     "private_or_commercial": "PRIVATE"
   },
@@ -72,7 +72,7 @@
     "make": "NISSAN",
     "model": "ALTIMA",
     "colour": "BLUEBLACK",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "S/C",
     "private_or_commercial": "PRIVATE"
   },
@@ -83,7 +83,7 @@
     "make": "TOYOTA",
     "model": "VITZ",
     "colour": "ASH",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "L/BACK",
     "private_or_commercial": "PRIVATE"
   },
@@ -94,7 +94,7 @@
     "make": "VOLKSWAGEN",
     "model": "LT 35",
     "colour": "DEEP BLUE",
-    "seating_capacity": "23",
+    "no_of_persons": "23",
     "vehicle_type": "BUS",
     "private_or_commercial": "COMMERCIAL"
   },
@@ -105,7 +105,7 @@
     "make": "TOYOTA",
     "model": "VITZ",
     "colour": "GREY",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "HATCH-BACK",
     "private_or_commercial": "PRIVATE"
   },
@@ -116,7 +116,7 @@
     "make": "TOYOTA",
     "model": "COROLLA",
     "colour": "WHITE/YELLOW",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "SALOON",
     "private_or_commercial": "COMMERCIAL"
   },
@@ -127,7 +127,7 @@
     "make": "HONDA",
     "model": "CR-V",
     "colour": "BROWN",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "ST WAGON",
     "private_or_commercial": "PRIVATE"
   },
@@ -138,7 +138,7 @@
     "make": "KIA",
     "model": "SOUL",
     "colour": "WHITE",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "LIFTBACK",
     "private_or_commercial": "PRIVATE"
   },
@@ -149,7 +149,7 @@
     "make": "HAOJUE",
     "model": "HJ125NEW",
     "colour": "BLACK",
-    "seating_capacity": "2",
+    "no_of_persons": "2",
     "vehicle_type": "MOTORCYCLE",
     "private_or_commercial": "PRIVATE"
   },
@@ -160,7 +160,7 @@
     "make": "HYUNDAI",
     "model": "GETZ",
     "colour": "BLUE/YELLOW",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "H/Back",
     "private_or_commercial": "Commercial"
   },
@@ -171,7 +171,7 @@
     "make": "TOYOTA",
     "model": "YARIS",
     "colour": "SILVER/YELLOW",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "L/BACK",
     "private_or_commercial": "COMMERCIAL"
   },
@@ -182,7 +182,7 @@
     "make": "MAZDA",
     "model": "DEMIO",
     "colour": "ASH/YELLOW",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "L/BACK",
     "private_or_commercial": "COMMERCIAL"
   },
@@ -193,7 +193,7 @@
     "make": "TOYOTA",
     "model": "YARIS",
     "colour": "BLUE",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "LIFT-BACK",
     "private_or_commercial": "PRIVATE"
   },
@@ -204,7 +204,7 @@
     "make": "TOYOTA",
     "model": "YARIS",
     "colour": "BLUE/YELLOW",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "LIFT-BACK",
     "private_or_commercial": "COMMERCIAL"
   },
@@ -215,7 +215,7 @@
     "make": "HONDA",
     "model": "CR-V",
     "colour": "RED",
-    "seating_capacity": "5",
+    "no_of_persons": "5",
     "vehicle_type": "ST/WAGON",
     "private_or_commercial": "PRIVATE"
   }

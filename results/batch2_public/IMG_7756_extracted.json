@@ -1,0 +1,11 @@
+{
+  "document_type": "Vehicle Registration Certificate",
+  "vehicle_registration_number": null,
+  "chassis_number": "73100670E410B3A9B",
+  "make": "TOYOTA",
+  "model": "HIACE",
+  "colour": "WHITE",
+  "seating_capacity": "15",
+  "vehicle_type": "BUS",
+  "private_or_commercial": "COMMERCIAL"
+}

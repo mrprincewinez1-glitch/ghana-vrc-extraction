@@ -24,3 +24,13 @@ calibration_overlay.png
 .vscode/
 __pycache__/
 *.pyc
+
+# Added during corpus expansion (contain real client data)
+/frozen_run10/
+/ground_truth_vrc_batch2.json
+/batch2_review_report.txt
+
+/tmp_jpg/
+/outputs_batch2/
+
+/eval_private/

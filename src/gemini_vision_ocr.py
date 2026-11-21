@@ -24,9 +24,9 @@ def extract_vrc_data(image_path):
     3. make
     4. model
     5. colour
-    6. seating_capacity
-    7. vehicle_type
-    8. private_or_commercial
+    6. no_of_persons (printed as No. Of Persons, under Perm. Capacity)
+    7. vehicle_type (printed as Type)
+    8. private_or_commercial (printed as Use: Private / Commercial)
 
     Return ONLY a valid JSON object with these exact keys. Do not include markdown formatting or backticks.
     """

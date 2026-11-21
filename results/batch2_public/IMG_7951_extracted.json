@@ -1,0 +1,11 @@
+{
+  "document_type": "Vehicle Registration Certificate",
+  "vehicle_registration_number": "569C29BF",
+  "chassis_number": "7EC45B24F27FA15F1",
+  "make": "TOYOTA",
+  "model": "HIACE",
+  "colour": "GREEN",
+  "seating_capacity": "15",
+  "vehicle_type": "BUS",
+  "private_or_commercial": "COMMERCIAL"
+}
