@@ -70,5 +70,5 @@ MIT. See `LICENSE`.
 
 ## Notes on the run logs
 
-- `run8.log` and `run10.log` use the same saved Gemini extractions. They differ only in the ground-truth labels they were scored against: `run10` uses the corrected labels listed in `results/ground_truth_corrections_log.csv`. `run10` is the evaluation reported in the paper.
+- `run8.log` and `run10.log` use the same saved Gemini extractions. Their per-document lines are identical and their summary scores differ; `run10` was scored against the corrected labels listed in `results/ground_truth_corrections_log.csv`. `run10` is the evaluation reported in the paper.
 - Logs for runs 5 and 6 were not retained, so the log numbering has a gap. `run9` did not complete because of API errors and free-tier quota limits.
